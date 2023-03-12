@@ -1,0 +1,22 @@
+ .flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header-card {
+  justify-content: space-between;
+  background-color: rgba(236, 205, 236, 0.463);
+  padding: 20px 30px;
+}
+
+.product-item {
+  padding: 20px;
+}
+.btns{
+border-radius: 7px;
+height: 40px;
+width: 100px;
+background-color: aquamarine;
+color: rgb(145, 43, 43);
+font-size:medium;
+}
